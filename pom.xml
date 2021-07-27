@@ -9,9 +9,9 @@
     <description>Kotlin Test server</description>
 
    <properties>
-  <sonar.projectKey>anatolyD_anatolyD</sonar.projectKey>
-  <sonar.organization>anatolyd</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
+     <sonar.projectKey>anatolyD_anatolyD</sonar.projectKey>
+     <sonar.organization>anatolyd</sonar.organization>
+     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  </properties>
 
 </project>
